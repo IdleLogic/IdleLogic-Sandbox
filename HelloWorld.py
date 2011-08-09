@@ -11,6 +11,7 @@
 
 def main():
     print "Hello GitHub"
+    print "Now I'm making a change"
 
 if __name__ == '__main__':
     main()
