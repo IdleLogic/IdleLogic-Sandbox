@@ -8,10 +8,11 @@
 # Copyright:   (c) Chris 2011
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
+from matplotlib import pylab
 
 def main():
-    print "Hello GitHub"
-    print "Now I'm making a change"
+    figure()
+    plot([1,2],[3,4])
 
 if __name__ == '__main__':
     main()
