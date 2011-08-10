@@ -13,6 +13,6 @@ from matplotlib import pylab
 def main():
     figure()
     plot([1,2],[3,4])
-    print 'Tests'
+    print 'Tests!'
 if __name__ == '__main__':
     main()
