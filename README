@@ -1,0 +1,31 @@
+This is just a test setup for me to learn the ins and out of Git.
+
+It seems the best way to work with Git so far is to:
+
+1. Edit my files
+2. Open git-bash
+3. Do a git commit -am 'Message head' -m 'Message body
+    (This will give the standard git commit format)
+    (Also git commit -am $'Head\n\nBody' also seems to work)
+    (Additionally I can use "git add ." then git commit)
+4. Next if I want to update the git-hub, I need to do a
+    git push
+
+(I can do a git status to see the list of changes. The git-gui is also
+    good for showing and browsing the changes and staging them.)
+
+Next, I'll need to learn how to update my workflow to include a development
+branch. (dev)
+
+Since I'm planning on using my PC and my Laptop, I'll have to learn a good way
+of updating the server to move the files back and forth.
+
+Need to try learning how to merge changes from the dev into the production
+branch
+
+Also, need to learn how to use the tag command to make "Revisions" of the code
+in the production branch.
+
+Once I get a handle on these basics I can start trying to use git-hub
+to serve my Python script samples for Idle-Logic.com.
+
